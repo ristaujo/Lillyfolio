@@ -68,7 +68,10 @@ hr.star-primary:after {
   margin: 0 auto; }
 
 section {
-  padding: 100px 0; }
+  padding: 100px 0; 
+  width: 100%;
+  height: 100vh;
+}
   section h2 {
     font-size: 3em;
     margin: 0; }
@@ -188,6 +191,7 @@ header.masthead {
     header.masthead .intro-text .skills {
       font-size: 1.75em; } }
 
+
 #portfolio .portfolio-item {
   right: 0;
   margin: 0 0 15px; }
@@ -197,6 +201,7 @@ header.masthead {
     max-width: 400px;
     margin: 0 auto;
     cursor: pointer; }
+
     #portfolio .portfolio-item .portfolio-link .caption {
       position: absolute;
       width: 100%;
@@ -205,7 +210,8 @@ header.masthead {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(24, 188, 156, 0.9); }
+      background: #A1B27D;
+       }
       #portfolio .portfolio-item .portfolio-link .caption:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .caption .caption-content {
@@ -397,7 +403,6 @@ footer {
   .btn-primary .badge {
     color: #2C3E50;
     background-color: white; }
-
 .btn-success {
   font-weight: 700;
   color: white;
@@ -472,4 +477,15 @@ footer {
 .card-text {
   font-size: 85%;
 }
+.magnifier {
+  padding-left: 45px;
+  
+}
+.bubble { 
+  padding-left: 45px;
+  
+}
+.iMac {
+  padding-left: 45px;
 
+}
