@@ -68,7 +68,7 @@ hr.star-primary:after {
   margin: 0 auto; }
 
 section {
-  padding: 100px 0; 
+  padding: 100px 0;
   width: 100%;
   height: 100vh;
 }
@@ -479,13 +479,32 @@ footer {
 }
 .magnifier {
   padding-left: 45px;
-  
 }
-.bubble { 
+.bubble {
   padding-left: 45px;
-  
 }
 .iMac {
   padding-left: 45px;
-
+}
+.quicken {
+  padding-top: 5%;
+}
+.msu {
+  padding-top: 5%;
+}
+.long {
+  padding-top: 5%;
+}
+.navName {
+  font-family: 'Grand Hotel';
+  text-transform: capitalize;
+}
+.longForm {
+  margin-left: 44px;
+}
+.socialMedia {
+  margin-left: 47px;
+}
+.blog {
+  margin-left: 44px;
 }
