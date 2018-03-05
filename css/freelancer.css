@@ -82,7 +82,10 @@ section.success {
 
 @media (max-width: 767px) {
   section {
-    padding: 75px 0; }
+    padding: 75px 0;
+    height: auto;
+    width: auto;
+   }
   section.first {
     padding-top: 75px; } }
 
